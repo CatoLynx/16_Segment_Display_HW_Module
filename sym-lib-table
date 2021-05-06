@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name 16seg_Module-rescue)(type Legacy)(uri ${KIPRJMOD}/16seg_Module-rescue.lib)(options "")(descr ""))
+)
